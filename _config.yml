@@ -1,1 +1,14 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Eris Due
+email: info@erisdue.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://erisdue.com" # the base hostname & protocol for your site
+github_username:  erisdue
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-last-modified-at
