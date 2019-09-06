@@ -1199,7 +1199,7 @@ body #jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedpo
 	.layout-four-columns .site-main > .row, .layout-three-columns .site-main > .row {margin-left: 0;margin-right: 0;}
 	.layout-four-columns .masonry [class*="col-"], .layout-three-columns .masonry [class*="col-"] {padding-left: 0;padding-right: 0;}
 	.site-footer .widget-area {margin-top: 50px;}}
-@media only screen and (max-width: 480px) {.custom-logo-link {max-width: 80px;}
+@media only screen and (max-width: 480px) {.custom-logo-link {max-width: 40px;}
 	.twocolumn .half-width {width: 100%;}
 	.contact-form .small-input {width: 100%;padding-right: 0;}
 	.contact-form .last {padding-left: 0;}
