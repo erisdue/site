@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://erisdue.com/projects/</loc>
-		<lastmod>2019-09-06T14:46:43+02:00</lastmod>
+		<lastmod>2019-10-14T20:52:37+02:00</lastmod>
 	</url>
 	<url>
 		<loc>https://erisdue.com/sail-io/</loc>
@@ -170,19 +170,19 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://erisdue.com/eris-muse/</loc>
-		<lastmod>2019-09-06T14:45:46+02:00</lastmod>
-		<image:image>
-			<image:loc>https://erisdue.com/wp-content/uploads/2019/09/muse.jpg</image:loc>
-			<image:title><![CDATA[muse]]></image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://erisdue.com/agent-for-wa/</loc>
 		<lastmod>2019-09-06T14:46:43+02:00</lastmod>
 		<image:image>
 			<image:loc>https://erisdue.com/wp-content/uploads/2019/09/wa-agent-e1567769040272.png</image:loc>
 			<image:title><![CDATA[wa-agent]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://erisdue.com/eris-muse/</loc>
+		<lastmod>2019-10-14T20:52:37+02:00</lastmod>
+		<image:image>
+			<image:loc>https://erisdue.com/wp-content/uploads/2019/09/muse.jpg</image:loc>
+			<image:title><![CDATA[muse]]></image:title>
 		</image:image>
 	</url>
 </urlset>
